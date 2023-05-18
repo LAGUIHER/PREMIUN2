@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zOiOeqG.png" group-title="Gratis",shortgod.com
 http://shortgod.com/canaldisponible.mp4
+#EXTINF:-1,LAT : TUDN TRANSCODER ORIGINAL HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+#EXTVLCOPT:network-caching=1000
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/120.ts
 #EXTINF:-1,USA | TUDN MX
 http://flash.shortgod.com/kickpapa/tv8.php?id=291
 #EXTINF:-1,DLAT | TUDN USA
