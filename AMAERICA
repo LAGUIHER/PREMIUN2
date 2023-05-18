@@ -1,27 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zOiOeqG.png" group-title="Gratis",shortgod.com
 http://shortgod.com/canaldisponible.mp4
-#EXTINF:-1,LAT : TUDN TRANSCODER ORIGINAL HD
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-#EXTVLCOPT:network-caching=1000
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/120.ts
-#EXTINF:-1,TUDN 1 MX
-#EXTVLCOPT:http-user-agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-https://nffthex0kzt.xyz/rk/pagatulista20236969/Paga20TUlistaCOchino20236969/913.ts
-#EXTINF:-1,TUDN 2 US
-#EXTVLCOPT:http-user-agent=TdJABcTaakqaPZen9BWUVRb8cpZChj9LWDNSLve8DMJEJXjLyERhCp7SAX83BWNG3bh8MyDrQaiknGwpSwHrBvBkPbXSU8tDBeahtRXG9HgEvkT8
-https://nffthex0kzt.xyz/rk/pagatulista20236969/Paga20TUlistaCOchino20236969/916.ts
-#EXTINF:-1,USA | TUDN MX
-http://flash.shortgod.com/kickpapa/tv8.php?id=291
 #EXTINF:-1,DLAT | TUDN USA
-http://flash.shortgod.com/kickpapa/tv2.php?id=417
+http://flash.shortgod.com/kickpapa/tv1.php?id=417
 #EXTINF:-1,DLAT | TUDN MX
-http://flash.shortgod.com/kickpapa/tv2.php?id=418
+http://flash.shortgod.com/kickpapa/tv1.php?id=418
 #EXTINF:-1,DLAT | TUDNXTRA 8
-http://flash.shortgod.com/kickpapa/tv2.php?id=426
+http://flash.shortgod.com/kickpapa/tv1.php?id=426
 #EXTINF:-1,DLAT | TUDNXTRA 9
-http://flash.shortgod.com/kickpapa/tv2.php?id=427
+http://flash.shortgod.com/kickpapa/tv1.php?id=427
 #EXTINF:-1,DLAT | TUDNXTRA 10
-http://flash.shortgod.com/kickpapa/tv2.php?id=428
+http://flash.shortgod.com/kickpapa/tv1.php?id=428
 #EXTINF:-1,DLAT | TUDNXTRA 11
-http://flash.shortgod.com/kickpapa/tv2.php?id=429
+http://flash.shortgod.com/kickpapa/tv1.php?id=429
