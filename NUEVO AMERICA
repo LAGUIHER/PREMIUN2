@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 group-title="Lista MX2", AZTECA 7
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 group-title="Lista MX2", AZTECA 7.2
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 group-title="Lista MX2", ADN40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 group-title="Lista MX2", CANAL 26 AGUASCALIENTES
+http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
+#EXTINF:-1 group-title="Lista MX2", AZTECA 7
+https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=107&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://shortgod.com-sport.com/posters/1647051461326.png" audio-track="spa" group-title="shortgod.com" tvg-shift="",DEPORTES LATINOS|TUDN USA HD.
 http://flash.shortgod.com/kickpapa/tv5.php?id=110-7081
 #EXTGRP:ShortGod.com
