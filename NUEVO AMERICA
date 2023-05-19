@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://shortgod.com-sport.com/posters/1647051461326.png" audio-track="spa" group-title="shortgod.com" tvg-shift="",DEPORTES LATINOS|TUDN USA HD.
+http://flash.shortgod.com/kickpapa/tv5.php?id=110-7081
+#EXTGRP:ShortGod.com
+#EXTINF:-1 tvg-id="" tvg-logo="https://shortgod.com-sport.com/posters/1637810987352.png" audio-track="spa" group-title="shortgod.com" tvg-shift="",DEPORTES LATINOS|TUDN MX HD
+http://flash.shortgod.com/kickpapa/tv5.php?id=32-7081
+#EXTGRP:ShortGod.com
 #EXTINF:-1,DLAT | TUDN USA
 http://flash.shortgod.com/kickpapa/tv1.php?id=417
 #EXTINF:-1,DLAT | TUDN MX
