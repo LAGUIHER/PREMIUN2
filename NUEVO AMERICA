@@ -15,6 +15,10 @@ http://flash.shortgod.com/kickpapa/tv5.php?id=110-7081
 #EXTINF:-1 tvg-id="" tvg-logo="https://shortgod.com-sport.com/posters/1637810987352.png" audio-track="spa" group-title="shortgod.com" tvg-shift="",DEPORTES LATINOS|TUDN MX HD
 http://flash.shortgod.com/kickpapa/tv5.php?id=32-7081
 #EXTGRP:ShortGod.com
+#EXTINF:-1 group-title="DEPORTES", TUDN
+http://clubtv.link/1823m/key2589/vix.php?c=193.frequency.stream/193&f=.m3u8
+#EXTINF:-1 group-title="DEPORTES", TUDN
+http://clubtv.link/1823m/key2589/vix.php?c=452.frequency.stream/452&f=.m3u8
 #EXTINF:-1,DLAT | TUDN USA
 http://flash.shortgod.com/kickpapa/tv1.php?id=417
 #EXTINF:-1,DLAT | TUDN MX
