@@ -9,12 +9,16 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 #EXTINF:-1 group-title="Lista MX2", AZTECA 7
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=107&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://shortgod.com-sport.com/posters/1647051461326.png" audio-track="spa" group-title="shortgod.com" tvg-shift="",DEPORTES LATINOS|TUDN USA HD.
-http://flash.shortgod.com/kickpapa/tv5.php?id=110-7081
-#EXTGRP:ShortGod.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://shortgod.com-sport.com/posters/1637810987352.png" audio-track="spa" group-title="shortgod.com" tvg-shift="",DEPORTES LATINOS|TUDN MX HD
-http://flash.shortgod.com/kickpapa/tv5.php?id=32-7081
-#EXTGRP:ShortGod.com
+#EXTINF:-1,DEP| TUDN (A)
+http://tv.streamid.tv:8080/live/TICKPELICULAS/JCBWEUIEU/50395.ts
+#EXTINF:-1,DEP| TUDN MEXICO | HD
+http://tv.streamid.tv:8080/live/TICKPELICULAS/JCBWEUIEU/295.ts
+#EXTINF:-1,DEP| TUDN USA
+http://tv.streamid.tv:8080/live/TICKPELICULAS/JCBWEUIEU/66293.ts
+#EXTINF:-1,DEP| TUDN USA | FHD
+http://tv.streamid.tv:8080/live/TICKPELICULAS/JCBWEUIEU/66292.ts
+#EXTINF:-1,DEP| TUDN | FHD
+http://tv.streamid.tv:8080/live/TICKPELICULAS/JCBWEUIEU/66291.ts
 #EXTINF:-1 group-title="DEPORTES", TUDN
 http://clubtv.link/1823m/key2589/vix.php?c=193.frequency.stream/193&f=.m3u8
 #EXTINF:-1 group-title="DEPORTES", TUDN
