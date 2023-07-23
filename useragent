@@ -3,7 +3,7 @@
 https://tecnomasterapp.tk/descarga/listasm3u.mp4
 
 #EXTINF:-1,24/ : El Santo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0(SMART-TV;LINUX;Tizen6.0)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 7.0) AppleWebKit/537.36 (KHTML, like Gecko) 94.0.4606.31/7.0 TV Safari/537.36
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/126.ts
 
 #EXTINF:-1,24/7 : Aquaman Classic 1967-1970
