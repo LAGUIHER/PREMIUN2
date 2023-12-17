@@ -9,29 +9,15 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 #EXTINF:-1 group-title="Lista MX2", AZTECA 7
 https://regioplay.xyz/php/SR_REGIO_314023_/tpnuevo02.php?tokennn=Regio&c=107&f=.m3u8
-#EXTINF:-1,DEP| TUDN (A)
-http://tv.streamid.tv:8080/live/TICKPELICULAS/JCBWEUIEU/50395.ts
-#EXTINF:-1,DEP| TUDN MEXICO | HD
-http://tv.streamid.tv:8080/live/TICKPELICULAS/JCBWEUIEU/295.ts
-#EXTINF:-1,DEP| TUDN USA
-http://tv.streamid.tv:8080/live/TICKPELICULAS/JCBWEUIEU/66293.ts
-#EXTINF:-1,DEP| TUDN USA | FHD
-http://tv.streamid.tv:8080/live/TICKPELICULAS/JCBWEUIEU/66292.ts
-#EXTINF:-1,DEP| TUDN | FHD
-http://tv.streamid.tv:8080/live/TICKPELICULAS/JCBWEUIEU/66291.ts
-#EXTINF:-1 group-title="DEPORTES", TUDN
-http://clubtv.link/1823m/key2589/vix.php?c=193.frequency.stream/193&f=.m3u8
-#EXTINF:-1 group-title="DEPORTES", TUDN
-http://clubtv.link/1823m/key2589/vix.php?c=452.frequency.stream/452&f=.m3u8
-#EXTINF:-1,DLAT | TUDN USA
-http://flash.shortgod.com/kickpapa/tv1.php?id=417
-#EXTINF:-1,DLAT | TUDN MX
-http://flash.shortgod.com/kickpapa/tv1.php?id=418
-#EXTINF:-1,DLAT | TUDNXTRA 8
-http://flash.shortgod.com/kickpapa/tv1.php?id=426
-#EXTINF:-1,DLAT | TUDNXTRA 9
-http://flash.shortgod.com/kickpapa/tv1.php?id=427
-#EXTINF:-1,DLAT | TUDNXTRA 10
-http://flash.shortgod.com/kickpapa/tv1.php?id=428
-#EXTINF:-1,DLAT | TUDNXTRA 11
-http://flash.shortgod.com/kickpapa/tv1.php?id=429
+#EXTINF:-1,102 CANAL DE LAS ESTRELLAS
+http://181.78.105.146:2000/play/a00g/index.m3u8
+#EXTINF:-1,103 Imagen
+http://181.78.105.146:2000/play/a00h/index.m3u8
+#EXTINF:-1,105 Cinco
+http://181.78.105.146:2000/play/a038/index.m3u8
+#EXTINF:-1,106 Multimedios
+http://181.78.105.146:2000/play/a039/index.m3u8
+#EXTINF:-1,107 Siete
+http://181.78.105.146:2000/play/a00i/index.m3u8
+#EXTINF:-1,TUDN
+http://181.78.105.146:2000/play/a08j/index.m3u8
